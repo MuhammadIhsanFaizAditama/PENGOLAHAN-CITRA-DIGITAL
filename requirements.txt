@@ -1,0 +1,10 @@
+Flask
+numpy
+opencv_python
+PyYAML
+opencv-python-headless 
+numpy 
+pillow 
+pytesseract 
+pypdf
+matplotlib
